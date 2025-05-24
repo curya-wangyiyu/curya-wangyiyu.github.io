@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-## Main Contributions
+## 🎉 Main Contributions
 
 - ``ACL demo`` [ComfyUI-Copilot: An Intelligent Assistant for Automated Workflow Development](). Zhenran Xu, Xue Yang, **Yiyu Wang**, Qingli Hu, Zijiao Wu, Baotian Hu, Longyue Wang, Weihua Luo, Kaifu Zhang. _Proceedings of Annual Meeting of the Association for Computational Linguistics: System Demonstrations (ACL-Demo)_, 2025
 
@@ -19,7 +19,7 @@
 
 - ``ICANN`` [A Novel Image Captioning Method Based on Generative Adversarial Networks](https://link.springer.com/chapter/10.1007/978-3-030-30490-4_23). Yang Fan, Jungang Xu, Yingfei Sun, **Yiyu Wang**. _Proceeding of International Conference on Artificial Neural Networks (ICANN)_, 2019
 
-## Co-authored Works
+## 🤝 Co-authored Works
 
 - ``ACL main`` [A Unified Agentic Framework for Evaluating Conditional Image Generation](https://arxiv.org/abs/2504.07046). Jifang Wang, Xue Yang, Longyue Wang, Zhenran Xu, **Yiyu Wang**, Yaowei Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. _Proceedings of Annual Meeting of the Association for Computational Linguistics (ACL)_, 2025
 
