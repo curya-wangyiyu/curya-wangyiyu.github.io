@@ -1,4 +1,4 @@
-I received my Ph.D. degree from the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), Beijing, China in June 2024. My supervisors are Prof. [Yingfei Sun](http://people.ucas.ac.cn/~yfsun) and Prof. [Jungang Xu](http://ccip.ucas.ac.cn/team/professor/%e5%be%90%e4%bf%8a%e5%88%9a/). 
+I received my Ph.D. degree from the School of Electronic, Electrical and Communication Engineering, [University of Chinese Academy of Sciences](http://english.ucas.ac.cn/), Beijing, China in June 2024. My supervisors are Prof. [Yingfei Sun](http://people.ucas.ac.cn/~yfsun) and Prof. [Jungang Xu](http://ccip.ucas.edu.cn/author/%E5%BE%90%E4%BF%8A%E5%88%9A/). 
 I received my B.S. degree from the College of Information Engineering at Northwest A&F University, Shaanxi, China in June 2018.
 
 My research interests include computer vision and multimodal learning, specifically for image captioning.
