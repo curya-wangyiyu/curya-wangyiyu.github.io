@@ -1,6 +1,7 @@
 # 📝 Publications 
 
 ## 🎉 Main Contributions
+- ``ACL Findings`` [ComfyFlow: Benchmarking LLMs for AIGC Workflow Generation](https://aclanthology.org/2026.findings-acl.140.pdf). Zhenran Xu, **Yiyu Wang**, Yunxin Li, Muyang Ye, Xue Yang, Kai Chen, Longyue Wang, Weihua Luo, Baotian Hu, Min Zhang. _Findings of the Association for Computational Linguistics: ACL 2026_, 2026
 
 - ``ArXiv`` [ComfyUI-R1: Exploring Reasoning Models for Workflow Generation](https://arxiv.org/abs/2506.09790). Zhenran Xu, **Yiyu Wang**, Xue Yang, Longyue Wang, Weihua Luo, Kaifu Zhang, Baotian Hu, Min Zhang. _arXiv preprint: abs/2506.09790_, 2025
 
